@@ -13,7 +13,15 @@ public static void main(String[] args) {
 	
 
 	System.out.println("Jay");
+
+	System.out.println("Need Conflict");
+	System.out.println("Thanks for conflict");
+
     System.out.println("archana");
+    System.out.println("close");
+
+    System.out.println("arch123 Greens tech");
+
 
     System.out.println("siri");
    System.out.println("123");
